@@ -24,3 +24,4 @@ guess3 = input("Which is the larget animal? ")
 check_guess(guess3, "Blue Whale")
 print("Your Score is "+ str(score))
 TEST
+date +"%Y%m%d%H"
