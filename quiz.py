@@ -23,14 +23,5 @@ check_guess(guess2, "Cheetah")
 guess3 = input("Which is the larget animal? ")
 check_guess(guess3, "Blue Whale")
 print("Your Score is "+ str(score))
-2023061302
-2023061302
-2023061302
-2023061302
-2023061302
-2023061302
-2023061302
-2023061302
-2023061302
-2023061302
 Tue 13 Jun 2023 03:36:21 AM UTC
+Mon 12 Jun 2023 10:38:01 PM CDT
