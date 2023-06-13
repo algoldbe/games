@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo `date +"%Y%m%d%H"` >> quiz.py
+echo "$(date)" >> quiz.py
 
 git add -A && git commit -m "Added new line"
 
