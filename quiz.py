@@ -25,3 +25,4 @@ check_guess(guess3, "Blue Whale")
 print("Your Score is "+ str(score))
 TEST
 date +"%Y%m%d%H"
+date +%Y%m%d%H
