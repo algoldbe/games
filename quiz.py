@@ -26,3 +26,4 @@ print("Your Score is "+ str(score))
 TEST
 date +"%Y%m%d%H"
 date +%Y%m%d%H
+date +%Y%m%d%H
