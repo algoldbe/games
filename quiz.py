@@ -25,3 +25,4 @@ check_guess(guess3, "Blue Whale")
 print("Your Score is "+ str(score))
 Tue 13 Jun 2023 03:36:21 AM UTC
 Mon 12 Jun 2023 10:38:01 PM CDT
+Mon 12 Jun 2023 09:39:08 PM CST
