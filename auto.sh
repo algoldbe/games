@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /root/repo/games
+cd /home/ubuntu/games
 
 echo "$(date)" >> quiz.py
 
